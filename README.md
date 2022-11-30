@@ -31,5 +31,13 @@
     
     ![image](https://user-images.githubusercontent.com/116524723/204697363-1d744299-145a-48a7-95d9-b0409e7aa282.png)
     
-## Challenge 3 - 
+## Challenge 3 - Print My Name
+
+        ![image](https://user-images.githubusercontent.com/116524723/204706113-d97de419-52a7-4873-9162-cbc966f5d216.png)
+
+
+## Challenge 4 - Print My Name & Age
+
+        ![image](https://user-images.githubusercontent.com/116524723/204706287-255b9d3b-469a-454a-8e0e-9725b0fba13c.png)
+
 
