@@ -33,16 +33,67 @@
     
 ## Challenge 3 - Print My Name
 
-        ![image](https://user-images.githubusercontent.com/116524723/204706113-d97de419-52a7-4873-9162-cbc966f5d216.png)
+``` python
 
+    Algoritmo PrintMyName
+	Imprimir "Javier Aguilar";
+    FinAlgoritmo
+```
 
 ## Challenge 4 - Print My Name & Age
 
-        ![image](https://user-images.githubusercontent.com/116524723/204706287-255b9d3b-469a-454a-8e0e-9725b0fba13c.png)
+
+``` python
+
+    Algoritmo PrintMyNameAndAge
+	Imprimir "Javier Aguilar";
+    Imprimir 27;
+    FinAlgoritmo
+```
         
 ## Challenge 5 - Game 
 
         ![image](https://user-images.githubusercontent.com/116524723/204708972-dddb967b-3c92-4763-b24b-10323939cfbf.png)
+        
+## Challenge 6 - Mod 
 
+``` python
+        
+    Algoritmo ParoImpar
+    Leer x;
+    Imprimir "El número ingresado por tu parte es " x;
+    Imprimir "Y la respuesta a la operación solicitada es " (x%2);
+    FinAlgoritmo
+```
 
+## Challenge 7 - Registro
+
+``` python
+
+    Algoritmo PrintMyName
+	Imprimir "Bienvenido al registro de datos de Javier Aguilar"
+	Imprimir "Para iniciar por favor marcar 1, para salir marcar 2";
+	Leer x; 
+	Si x=1 Entonces 
+		Imprimir "Ingrese su primer nombre"; 
+		Leer nombre; 
+		Imprimir "Ingrese su apellido";
+		Leer apellido;
+		Imprimir "Ingrese su edad";
+		Leer edad;
+		Imprimir "Por favor ingrese el correo electronico dónde desea recibir información";
+		Leer correo; 
+		Imprimir "Por favor ingrese su dirección";
+		Leer address; 
+		Imprimir "Gracias por enviar su información, la hemos registrado por usted." 
+		Imprimir "Por favor revise que los datos sean correctos a continuación";
+		Imprimir nombre + " " + apellido; 
+		Imprimir edad; 
+		Imprimir correo;
+		Imprimir address;
+		Sino Imprimir "usted ha finalizado el registro";
+	FinSi
+
+    FinAlgoritmo
+```
 
