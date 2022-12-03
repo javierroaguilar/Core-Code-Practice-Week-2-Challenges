@@ -113,3 +113,38 @@
  	12. (T | F ) & (F | F) = T ❌
  	13. ~((T | F ) & (F | F)) & F = T ?
  	14. ~((T | F ) & (F | F)) & T = F ?
+	
+## Challenge 9 - Boolean Results 
+
+``` python
+
+	Algoritmo boolean
+	a <- 5 == 3
+	// La variable "a" es el resultado de la operación "5 es igual a 3", por lo tanto es falso
+	b <- 4 <> 3
+	// La variable "b" es el resultado de la comprobación "4 no es igual a 3", por lo tanto es verdadero
+	c <- 7 > 7
+	// La variable "c" es el resultado de la comprobación de "7 es mayor que 7", por lo tanto es falso
+	d <- 4 < 4 
+	// La variable "d" es el resultado de la comprobación de "4 es menor que 4", por lo tanto es falso
+	e <- 100 <= 90
+	// La variable "e" es el resultado de la comprobación de "100 es menor o igual que 90", por lo tanto es falso
+	f <- 40 >= 40
+	// La variable "f" es el resultado de la comprobación "40 es mayor o igual que 40", por lo tanto es verdadero
+	FinAlgoritmo
+	
+```
+
+## Challenge 10 - Par o Impar 
+	
+``` python
+	Algoritmo Ejercicio10
+	Imprimir "Por favor ingrese un número"
+	Leer x; 
+	Si x%2=0 entonces 
+		Imprimir "El número ingresado es par"
+	Sino 
+		Imprimir "El número es impar"
+	FinSi
+	FinAlgoritmo
+```
