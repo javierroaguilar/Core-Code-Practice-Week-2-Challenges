@@ -29,7 +29,7 @@
     Insert cereal into tazon;
     Comer cereal; 
     
-    ![image](https://user-images.githubusercontent.com/116524723/204697363-1d744299-145a-48a7-95d9-b0409e7aa282.png)
+![image](https://user-images.githubusercontent.com/116524723/204697363-1d744299-145a-48a7-95d9-b0409e7aa282.png)
     
 ## Challenge 3 - Print My Name
 
@@ -53,7 +53,7 @@
         
 ## Challenge 5 - Game 
 
-        ![image](https://user-images.githubusercontent.com/116524723/204708972-dddb967b-3c92-4763-b24b-10323939cfbf.png)
+![image](https://user-images.githubusercontent.com/116524723/204708972-dddb967b-3c92-4763-b24b-10323939cfbf.png)
         
 ## Challenge 6 - Mod 
 
